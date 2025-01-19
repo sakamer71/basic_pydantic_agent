@@ -1,0 +1,5 @@
+pydantic_ai_bedrock
+pydantic_ai
+python-dotenv
+tomli
+pyyaml
